@@ -1,1 +1,1 @@
-# Suicides-Analysis-in-India-2001-2012-
+The project comprises studying suicide statistics in India from 2001 to 2012 using pandas, an efficient Python data manipulation and analysis tool, as well as Excel for data visualization and presentation.
